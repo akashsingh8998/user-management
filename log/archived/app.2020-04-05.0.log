@@ -1,0 +1,6 @@
+2020-04-05 15:28:40,374 INFO com.sapient.user_management.UserManagementApplication [restartedMain] Starting UserManagementApplication on WKWIN6139632 with PID 21072 (C:\Users\akasingh9\Desktop\MicroServicesPractice\user-management-trial-4\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\user-management-trial-4)
+2020-04-05 15:28:40,392 DEBUG com.sapient.user_management.UserManagementApplication [restartedMain] Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-04-05 15:28:40,393 INFO com.sapient.user_management.UserManagementApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-05 15:28:53,580 DEBUG com.sapient.aspect.MessageAspect$$EnhancerBySpringCGLIB$$88964aeb [restartedMain] Door-in RestController : Docket com.sapient.user_management.UserManagementApplication.api()
+2020-04-05 15:28:53,612 DEBUG com.sapient.aspect.MessageAspect$$EnhancerBySpringCGLIB$$88964aeb [restartedMain] Door-out RestController : Docket com.sapient.user_management.UserManagementApplication.api() : without error : returned :springfox.documentation.spring.web.plugins.Docket@5fcb59d8 : with Arguments : 
+2020-04-05 15:28:55,124 INFO com.sapient.user_management.UserManagementApplication [restartedMain] Started UserManagementApplication in 15.33 seconds (JVM running for 16.382)
